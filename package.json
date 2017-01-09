@@ -1,0 +1,26 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "ERROR: No README data found!",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "mysql-activerecord": "~0.8.6",
+    "es6-promise": "*",
+    "needle": "*"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flexiink/parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Flexiink/parser/issues"
+  },
+  "homepage": "https://github.com/Flexiink/parser#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
